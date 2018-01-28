@@ -1,0 +1,22 @@
+{
+  "name": "heartboxcreative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarrettEstrin/heartboxcreative.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarrettEstrin/heartboxcreative/issues"
+  },
+  "homepage": "https://github.com/GarrettEstrin/heartboxcreative#readme",
+  "dependencies": {
+    "ftp-deploy": "^1.2.2"
+  }
+}

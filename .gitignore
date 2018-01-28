@@ -1,3 +1,5 @@
 deployment.php
 deployment.ini
 /Deployment
+deploy.js
+node_modules
