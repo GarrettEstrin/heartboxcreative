@@ -3,3 +3,6 @@ deployment.ini
 /Deployment
 deploy.js
 node_modules
+.git
+.gitignore
+.DS_Store
