@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/GarrettEstrin/heartboxcreative#readme",
   "dependencies": {
-    "ftp-deploy": "^1.2.2"
+    "ftp-deploy-log": "^1.2.3"
   }
 }
